@@ -26,10 +26,10 @@ a, a:visited, a:hover, a:active {
     color: #310066;
 }
 .menu-bar{
-    background-color: #6300cc;
+    background-color: #7b00ff;
     color: white;
     height: 6vh;
-    width: 80%;
+    width: 100%;
     margin: auto;
     display: flex;
     justify-content: space-evenly;
